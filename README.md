@@ -304,7 +304,6 @@ enterprise-healthcare-analytics-platform/
 ├── notebooks/
 ├── pipelines/
 ├── dataflows/
-├── warehouse/
 ├── semantic-model/
 └── README.md
 ```
